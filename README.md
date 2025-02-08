@@ -20,6 +20,7 @@
   ],
   "synopsis": "Following the successful Sanyou campaign, the Qin army, including 1,000-Man Commander Xin, inches ever closer to fulfilling King Ying Zheng's dream of unifying China..."
 }
+```
 ## Intended Next Steps
 
 ### 1. **Game Flow**:
