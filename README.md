@@ -144,4 +144,4 @@ For example, with `max_pages = 3`, we're only fetching 75 anime, rather than all
 
 The current game setup is a good foundation, and implementing Flask, React, and a database will make it more interactive and persistent for the user.
 
-Let me know if you need any further guidance or if you want to dive deeper into any of the steps!
+
